@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bri:home|Door43 (bri)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bri|d43-bri repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bri/archive/master.zip|d43-bri.zip]]
+
+**Recent Changes**
+{{changes>ns = bri}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bri|Ethnologue data]]
+
